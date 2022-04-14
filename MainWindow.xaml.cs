@@ -14,7 +14,7 @@ using System.Windows.Navigation;
 using System.Windows.Shapes;
 using System.Text.RegularExpressions;
 
-//Srilakshmi Jay
+//Srilakshmi Jay commiting to github on april 14
 
 namespace CashRegister
 {
